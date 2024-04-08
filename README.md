@@ -1,6 +1,6 @@
 # Gta Project🏙️
 
-Project carried out in the Dev double live course.
+Project carried out in the Dev em Dobro live course.
 
 In this project I learned a lot about:
 - HTML markup language; 📝   
