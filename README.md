@@ -1,18 +1,17 @@
-# Gta Project🏙️
+# GTA Project 🏙️
 
-Project carried out in the Dev em Dobro live course.
+This project was created as a study practice to improve my web development skills.
 
-In this project I learned a lot about:
-- HTML markup language; 📝   
-- CSS styling language; 🎨
-- JavaScript programming language. ‍💻
+Throughout this project, I worked with:
+- HTML5 for structure 📝
+- CSS3 for styling and layout 🎨
+- JavaScript for interactivity 💻
 
-## Project deploy
+The main goal was to practice building a visually appealing landing page inspired by the GTA universe.
 
-- [Project website](https://gabrielcunha1.github.io/gta-project/) 🏙️
+## 🚀 Live Demo
+- [Project website](https://gabrielcunha1.github.io/gta-project/)
 
-## Screenshots
-
-![Imgur](https://i.imgur.com/ibO7UGs.png)
-![Imgur](https://i.imgur.com/y3kdYmV.png)
-
+## 📸 Screenshots
+![Screenshot 1](https://i.imgur.com/ibO7UGs.png)
+![Screenshot 2](https://i.imgur.com/y3kdYmV.png)
